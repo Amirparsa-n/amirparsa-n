@@ -51,9 +51,7 @@
 ###
 
 ![](https://github-readme-stats.vercel.app/api?username=Amirparsa-n&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Amirparsa-n&theme=tokyonight&hide_border=true)
-
-<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Amirparsa-n&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirparsa-n&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
