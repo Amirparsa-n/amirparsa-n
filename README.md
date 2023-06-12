@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Amirparsa Naghibi and I'm a Iran, from Yazd</p>
+<p align="left">My name is Amirparsa Naghibi I am from Yazd, Iran</p>
 
 ###
 
