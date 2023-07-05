@@ -52,8 +52,9 @@
 
 ###
 
-![](https://github-readme-stats.vercel.app/api?username=Amirparsa-n&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Amirparsa-n&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirparsa-n&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Amirparsa-n&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amirparsa-n&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=GitHub Stars" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amirparsa-n&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
 
